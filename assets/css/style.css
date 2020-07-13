@@ -200,6 +200,7 @@ h1, h2, h3, h4, h5, h6 {
   list-style: none;
 }
 
+
 .nav-menu > ul {
   display: flex;
   align-items: center;
@@ -994,6 +995,26 @@ section {
   text-align: center;
   border-radius: 50px;
 }
+.brands-card{
+  background-color: #f1f1f1;
+  width:150px;
+  border: none;
+  
+}
+.menu-image img:hover{
+  border: 1px solid rgba(0, 0, 0, 0.658);
+}
+.btn-color{
+  background-color: #e57f84;
+}
+
+.card-body a{
+  color: white;
+}
+
+.btn-color{
+  background-color: #353837;
+}
 .menu-bg {
   background-color: #f1f1f1;
 }
@@ -1058,11 +1079,12 @@ section {
   width: 150px;
   border-radius: 20px;
   float: left;
-  border: 1px solid rgba(0, 0, 0, 0.658);
-}
+  box-shadow: 5px 10px 16px rgb(49, 49, 49);}
 
-.menu-image li:hover{
-  background-color: #0c0b09;
+
+
+.menu-image a:hover{
+  background-color: #e57f84;
 }
 
 .menu .menu-content {
