@@ -998,7 +998,6 @@ section {
   background-color: #f1f1f1;
 }
 
-
 .menu-titleHeader h2 {
   font-size: 14px;
   font-weight: 500;
@@ -1056,8 +1055,8 @@ section {
 }
 
 .menu .menu-img {
-  width: 75px;
-  border-radius: 50%;
+  width: 150px;
+  border-radius: 20px;
   float: left;
   border: 1px solid rgba(0, 0, 0, 0.658);
 }
@@ -1636,6 +1635,10 @@ section {
   width: 100%;
 }
 
+.contact-bg{
+  background-color: #271b1b;
+}
+
 .contact .info i {
   font-size: 20px;
   float: left;
@@ -1939,7 +1942,9 @@ section {
   text-align: center;
   padding-top: 30px;
 }
-
+.footer-img{
+  width: 100px;
+}
 #footer .credits {
   padding-top: 10px;
   text-align: center;
