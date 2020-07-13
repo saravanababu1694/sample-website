@@ -949,7 +949,7 @@ section {
 }
 
  @keyframes move {
-  from { left: 40%;  transform: translateX(30px);}
+  from { left: 40%;  transform: translateX(45px);}
   to { left: 30%; transform: translateX(10px); }
  }
 
